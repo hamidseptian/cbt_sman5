@@ -1,0 +1,11 @@
+.belum_dijawab{
+	width :100px;
+	height: 100px;
+	background-color: blue;
+}
+.sudah_dijawab{
+	width :100px;
+	height: 100px
+	background-color: green;
+
+}
